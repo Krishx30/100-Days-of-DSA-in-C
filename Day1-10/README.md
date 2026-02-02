@@ -29,4 +29,23 @@ Existing elements are shifted to the right to make space.
 
 ---
 
-More problems will be added day by day in this folder.
+## ✅ Day 2
+
+### Problem: Delete an Element from an Array
+
+**Description:**  
+Write a C program to delete an element at a specified **1-based position** in an array.  
+After deletion, shift the remaining elements to the left.
+
+**Concepts Used:**
+- Arrays
+- Index shifting
+- Loops
+- Basic input/output
+
+**File:**  
+`day2.c`
+
+---
+
+
