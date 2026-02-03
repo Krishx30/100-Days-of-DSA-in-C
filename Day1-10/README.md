@@ -47,5 +47,27 @@ After deletion, shift the remaining elements to the left.
 `day2.c`
 
 ---
+## ✅ Day 3
+
+### Problem: Linear Search in an Array with Comparison Count
+
+**Description:**  
+Write a C program to search for a given key in an array using linear search.  
+The program also counts and displays the number of comparisons performed.  
+If the key is found, display the index where it is found; otherwise display Not Found.
+
+**Concepts Used:**
+- Arrays
+- Linear search
+- Loops
+- Conditional statements
+- Basic input/output
+
+**File:**  
+`Day3.c`
+
+---
+
+
 
 
