@@ -67,6 +67,26 @@ If the key is found, display the index where it is found; otherwise display Not 
 `Day3.c`
 
 ---
+## ✅ Day 4
+
+### Problem: Reverse an Array Using Two-Pointer Approach
+
+**Description:**  
+Write a C program to reverse a given array of integers in-place using the two-pointer technique.  
+The first pointer starts from the beginning of the array and the second pointer starts from the end.  
+Elements are swapped until both pointers meet.
+
+**Concepts Used:**
+- Arrays
+- Two-pointer technique
+- Loops
+- Basic input/output
+
+**File:**  
+`Day4.c`
+
+---
+
 
 
 
