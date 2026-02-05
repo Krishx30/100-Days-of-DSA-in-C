@@ -86,6 +86,26 @@ Elements are swapped until both pointers meet.
 `Day4.c`
 
 ---
+## ✅ Day 5
+
+### Problem: Merge Two Sorted Logs into a Single Chronological Log
+
+**Description:**  
+A system receives two separate logs of user arrival times from two different servers.  
+Each log is already sorted in ascending order.  
+Write a C program to merge both logs into a single chronological log while preserving order.
+
+**Concepts Used:**
+- Arrays
+- Two-pointer technique
+- Loops
+- Conditional statements
+- Basic input/output
+
+**File:**  
+`Day5.c`
+
+---
 
 
 
