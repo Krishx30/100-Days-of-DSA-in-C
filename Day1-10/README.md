@@ -106,6 +106,25 @@ Write a C program to merge both logs into a single chronological log while prese
 `Day5.c`
 
 ---
+## ✅ Day 6
+
+### Problem: Remove Duplicates from a Sorted Array
+
+**Description:**  
+Given a sorted array of integers, write a C program to remove duplicate elements in-place.  
+Only the unique elements should be printed in the same sorted order.
+
+**Concepts Used:**
+- Arrays
+- Two-pointer technique
+- Loops
+- Conditional statements
+- Basic input/output
+
+**File:**  
+`Day6.c`
+
+---
 
 
 
