@@ -125,6 +125,26 @@ Only the unique elements should be printed in the same sorted order.
 `Day6.c`
 
 ---
+## ✅ Day 7
+
+### Problem: Find the n-th Fibonacci Number Using Recursion
+
+**Description:**  
+Write a C program to compute the n-th Fibonacci number using a recursive function.  
+The Fibonacci sequence is defined as fib(0) = 0 and fib(1) = 1, and for n ≥ 2,  
+fib(n) = fib(n − 1) + fib(n − 2).
+
+**Concepts Used:**
+- Recursion
+- Function calls
+- Conditional statements
+- Basic input/output
+
+**File:**  
+`Day7.c`
+
+---
+
 
 
 
