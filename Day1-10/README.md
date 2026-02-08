@@ -144,6 +144,24 @@ fib(n) = fib(n − 1) + fib(n − 2).
 `Day7.c`
 
 ---
+## ✅ Day 8
+
+### Problem: Compute Power Using Recursion
+
+**Description:**  
+Given two integers a and b, write a C program to compute a raised to the power b  
+using recursion without using the built-in pow() function.
+
+**Concepts Used:**
+- Recursion
+- Function calls
+- Mathematical operations
+- Basic input/output
+
+**File:**  
+`Day8.c`
+
+---
 
 
 
