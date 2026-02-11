@@ -162,6 +162,45 @@ using recursion without using the built-in pow() function.
 `Day8.c`
 
 ---
+## ✅ Day 9
+
+### Problem: Mirror a Code Name (Reverse a String)
+
+**Description:**  
+Given a lowercase string containing only alphabetic characters,  
+write a C program to transform the string so that its characters appear in reverse order.
+
+**Concepts Used:**
+- Strings
+- Two-pointer technique
+- Loops
+- Character swapping
+- Basic input/output
+
+**File:**  
+`Day9.c`
+
+---
+## ✅ Day 10
+
+### Problem: Check if a String is a Palindrome
+
+**Description:**  
+Write a C program to read a string and check whether it is a palindrome  
+using the two-pointer comparison technique.  
+Print YES if the string reads the same forwards and backwards, otherwise print NO.
+
+**Concepts Used:**
+- Strings
+- Two-pointer technique
+- Loops
+- Conditional statements
+- Basic input/output
+
+**File:**  
+`Day10.c`
+
+---
 
 
 
