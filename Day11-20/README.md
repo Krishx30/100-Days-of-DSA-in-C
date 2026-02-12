@@ -23,3 +23,23 @@ from the two input matrices.
 `Day11.c`
 
 ---
+## ✅ Day 12
+
+### Problem: Check Whether a Matrix is Symmetric
+
+**Description:**  
+Write a C program to check whether a given matrix is symmetric.  
+A matrix is symmetric if it is a square matrix and for every i and j,  
+element[i][j] is equal to element[j][i].
+
+**Concepts Used:**
+- 2D Arrays
+- Nested loops
+- Matrix transpose concept
+- Conditional statements
+- Basic input/output
+
+**File:**  
+`Day12.c`
+
+---
