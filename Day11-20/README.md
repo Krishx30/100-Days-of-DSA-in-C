@@ -43,3 +43,23 @@ element[i][j] is equal to element[j][i].
 `Day12.c`
 
 ---
+## ✅ Day 13
+
+### Problem: Spiral Traversal of a Matrix
+
+**Description:**  
+Write a C program to traverse a rectangular matrix in a clockwise spiral order,  
+starting from the outer boundary and moving inward layer by layer  
+until all elements are visited.
+
+**Concepts Used:**
+- 2D Arrays
+- Nested loops
+- Boundary traversal technique
+- Spiral traversal logic
+- Basic input/output
+
+**File:**  
+`Day13.c`
+
+---
