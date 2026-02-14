@@ -63,3 +63,23 @@ until all elements are visited.
 `Day13.c`
 
 ---
+## ✅ Day 14
+
+### Problem: Check Whether a Matrix is an Identity Matrix
+
+**Description:**  
+Write a C program to check whether a given square matrix is an identity matrix.  
+An identity matrix is a square matrix where all diagonal elements are 1  
+and all non-diagonal elements are 0.
+
+**Concepts Used:**
+- 2D Arrays
+- Nested loops
+- Matrix properties
+- Conditional statements
+- Basic input/output
+
+**File:**  
+`Day14.c`
+
+---
