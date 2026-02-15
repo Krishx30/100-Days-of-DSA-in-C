@@ -83,3 +83,21 @@ and all non-diagonal elements are 0.
 `Day14.c`
 
 ---
+## ✅ Day 15
+
+### Problem: Sum of Primary Diagonal Elements of a Matrix
+
+**Description:**  
+Write a C program to calculate the sum of the primary diagonal elements of a matrix.  
+The primary diagonal consists of elements where the row index equals the column index.
+
+**Concepts Used:**
+- 2D Arrays
+- Nested loops
+- Diagonal traversal
+- Basic input/output
+
+**File:**  
+`Day15.c`
+
+---
