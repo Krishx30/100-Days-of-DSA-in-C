@@ -101,3 +101,22 @@ The primary diagonal consists of elements where the row index equals the column 
 `Day15.c`
 
 ---
+## ✅ Day 16
+
+### Problem: Count Frequency of Each Distinct Element in an Array
+
+**Description:**  
+Write a C program to count the frequency of each distinct element in a given array  
+and print the result in the format element:count.
+
+**Concepts Used:**
+- Arrays
+- Nested loops
+- Frequency counting
+- Conditional statements
+- Basic input/output
+
+**File:**  
+`Day16.c`
+
+---
