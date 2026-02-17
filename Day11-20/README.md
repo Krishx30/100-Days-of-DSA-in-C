@@ -120,3 +120,20 @@ and print the result in the format element:count.
 `Day16.c`
 
 ---
+## ✅ Day 17
+
+### Problem: Find Maximum and Minimum in an Array
+
+**Description:**  
+Write a C program to find the maximum and minimum values present in a given array of integers.
+
+**Concepts Used:**
+- Arrays
+- Loops
+- Conditional statements
+- Basic input/output
+
+**File:**  
+`Day17.c`
+
+---
