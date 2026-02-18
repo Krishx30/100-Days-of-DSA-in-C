@@ -137,3 +137,21 @@ Write a C program to find the maximum and minimum values present in a given arra
 `Day17.c`
 
 ---
+## ✅ Day 18
+
+### Problem: Rotate an Array to the Right by k Positions
+
+**Description:**  
+Write a C program to rotate an array of integers to the right by k positions.  
+The rotation should be performed efficiently.
+
+**Concepts Used:**
+- Arrays
+- Reversal algorithm
+- Loops
+- Basic input/output
+
+**File:**  
+`Day18.c`
+
+---
