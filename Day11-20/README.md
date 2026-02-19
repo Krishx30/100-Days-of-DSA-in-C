@@ -155,3 +155,22 @@ The rotation should be performed efficiently.
 `Day18.c`
 
 ---
+## ✅ Day 19
+
+### Problem: Find Two Elements Whose Sum is Closest to Zero
+
+**Description:**  
+Write a C program to find two elements in an array whose sum is closest to zero.  
+The program should print the pair of elements that minimizes the absolute sum.
+
+**Concepts Used:**
+- Arrays
+- Sorting
+- Two-pointer technique
+- Absolute value
+- Basic input/output
+
+**File:**  
+`Day19.c`
+
+---
