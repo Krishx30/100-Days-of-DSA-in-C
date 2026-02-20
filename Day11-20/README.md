@@ -174,3 +174,22 @@ The program should print the pair of elements that minimizes the absolute sum.
 `Day19.c`
 
 ---
+## ✅ Day 20
+
+### Problem: Count Subarrays with Sum Equal to Zero
+
+**Description:**  
+Write a C program to count the number of subarrays whose sum is equal to zero.  
+A subarray is a continuous part of the array.
+
+**Concepts Used:**
+- Arrays
+- Prefix Sum
+- Frequency counting
+- Hashing technique
+- Basic input/output
+
+**File:**  
+`Day20.c`
+
+---
