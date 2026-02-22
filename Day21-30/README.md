@@ -17,3 +17,23 @@ and traverse the list to print all elements.
 `Day21.c`
 
 ---
+
+## ✅ Day 22
+
+### Problem: Count Nodes in Linked List
+
+**Description:**  
+Write a C program to create a singly linked list and count the total number of nodes present in the list.
+
+**Concepts Used:**
+- Structures
+- Pointers
+- Dynamic memory allocation
+- Linked list traversal
+- Counting technique
+- Basic input/output
+
+**File:**  
+`Day22.c`
+
+---
