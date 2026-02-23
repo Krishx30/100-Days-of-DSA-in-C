@@ -37,3 +37,23 @@ Write a C program to create a singly linked list and count the total number of n
 `Day22.c`
 
 ---
+
+## ✅ Day 23
+
+### Problem: Merge Two Sorted Linked Lists
+
+**Description:**  
+Write a C program to merge two sorted singly linked lists into a single sorted linked list using dynamic memory allocation.
+
+**Concepts Used:**
+- Structures
+- Pointers
+- Dynamic memory allocation
+- Linked list traversal
+- Merge technique
+- Basic input/output
+
+**File:**  
+`Day23.c`
+
+---
