@@ -58,24 +58,42 @@ Write a C program to merge two sorted singly linked lists into a single sorted l
 
 ---
 
-Problem: Delete First Occurrence of a Key - Implement using linked list with dynamic memory allocation.
+## ✅ Day 24
 
-Input:
-- First line: integer n
-- Second line: n space-separated integers
-- Third line: integer key
+### Problem: Delete First Occurrence of a Key in Linked List
 
-Output:
-- Print the linked list elements after deletion, space-separated
+**Description:**  
+Write a C program to delete the first occurrence of a given key from a singly linked list using dynamic memory allocation.
 
-Example:
-Input:
-5
-10 20 30 40 50
-30
+**Concepts Used:**
+- Structures
+- Pointers
+- Dynamic memory allocation
+- Linked list traversal
+- Node deletion logic
+- Basic input/output
 
-Output:
-10 20 40 50
+**File:**  
+`Day24.c`
 
-Explanation:
-Traverse list, find first node with key, remove it by adjusting previous node's next pointer.
+---
+
+## ✅ Day 25
+
+### Problem: Count Occurrences of an Element in Linked List
+
+**Description:**  
+Write a C program to count the number of times a given key appears in a singly linked list using dynamic memory allocation.
+
+**Concepts Used:**
+- Structures
+- Pointers
+- Dynamic memory allocation
+- Linked list traversal
+- Counting technique
+- Basic input/output
+
+**File:**  
+`Day25.c`
+
+---
