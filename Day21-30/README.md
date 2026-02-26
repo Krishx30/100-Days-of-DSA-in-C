@@ -97,3 +97,25 @@ Write a C program to count the number of times a given key appears in a singly l
 `Day25.c`
 
 ---
+
+## ✅ Day 26
+
+### Problem: Doubly Linked List Insertion and Traversal
+
+**Description:**  
+Write a C program to create a doubly linked list using dynamic memory allocation.  
+Each node contains data, next pointer, and prev pointer.  
+Insert nodes sequentially and traverse the list in forward direction.
+
+**Concepts Used:**
+- Structures
+- Pointers
+- Doubly linked list
+- Dynamic memory allocation
+- Forward traversal
+- Basic input/output
+
+**File:**  
+`Day26.c`
+
+---
