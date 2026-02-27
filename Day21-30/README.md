@@ -119,3 +119,25 @@ Insert nodes sequentially and traverse the list in forward direction.
 `Day26.c`
 
 ---
+
+## ✅ Day 27
+
+### Problem: Reverse a Doubly Linked List
+
+**Description:**  
+Write a C program to reverse a doubly linked list using dynamic memory allocation.  
+Each node contains data, next pointer, and prev pointer.  
+After reversing, print the list in forward direction.
+
+**Concepts Used:**
+- Structures
+- Pointers
+- Doubly linked list
+- Dynamic memory allocation
+- Pointer swapping
+- Basic input/output
+
+**File:**  
+`Day27.c`
+
+---
