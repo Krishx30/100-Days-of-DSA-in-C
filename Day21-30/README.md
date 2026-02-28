@@ -141,3 +141,25 @@ After reversing, print the list in forward direction.
 `Day27.c`
 
 ---
+
+## ✅ Day 28
+
+### Problem: Circular Linked List Creation and Traversal
+
+**Description:**  
+Write a C program to create a circular singly linked list using dynamic memory allocation.  
+The last node’s next pointer should point back to the head.  
+Traverse the list starting from head and stop when returning to head.
+
+**Concepts Used:**
+- Structures
+- Pointers
+- Circular linked list
+- Dynamic memory allocation
+- Do-while traversal
+- Basic input/output
+
+**File:**  
+`Day28.c`
+
+---
