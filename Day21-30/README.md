@@ -163,3 +163,25 @@ Traverse the list starting from head and stop when returning to head.
 `Day28.c`
 
 ---
+
+## ✅ Day 29
+
+### Problem: Rotate Linked List Right by k Places
+
+**Description:**  
+Write a C program to rotate a singly linked list to the right by k places.  
+Convert the list into circular form temporarily, move to the new tail position,  
+break the link, and update the head.
+
+**Concepts Used:**
+- Structures
+- Pointers
+- Linked list traversal
+- Circular link technique
+- Modulo operation
+- Basic input/output
+
+**File:**  
+`Day29.c`
+
+---
