@@ -185,3 +185,24 @@ break the link, and update the head.
 `Day29.c`
 
 ---
+
+## ✅ Day 30
+
+### Problem: Reverse Linked List in Groups of k
+
+**Description:**  
+Write a C program to reverse a singly linked list in groups of k nodes.  
+Reverse each group recursively and connect them properly.
+
+**Concepts Used:**
+- Structures
+- Pointers
+- Linked list reversal
+- Recursion
+- Group processing
+- Basic input/output
+
+**File:**  
+`Day30.c`
+
+---
