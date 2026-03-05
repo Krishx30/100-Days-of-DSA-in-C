@@ -24,3 +24,23 @@ Display elements from top to bottom.
 `Day31.c`
 
 ---
+
+## ✅ Day 32
+
+### Problem: Stack Push and Pop Verification
+
+**Description:**  
+Write a C program to implement push and pop operations on a stack using an array.  
+Push n elements into the stack, perform m pop operations, and print the remaining stack elements from top to bottom.
+
+**Concepts Used:**
+- Arrays
+- Stack (LIFO principle)
+- Push and pop operations
+- Stack traversal
+- Basic input/output
+
+**File:**  
+`Day32.c`
+
+---
