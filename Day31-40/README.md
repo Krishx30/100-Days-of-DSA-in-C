@@ -44,3 +44,23 @@ Push n elements into the stack, perform m pop operations, and print the remainin
 `Day32.c`
 
 ---
+
+## ✅ Day 33
+
+### Problem: Convert Infix Expression to Postfix
+
+**Description:**  
+Write a C program to convert an infix expression into postfix notation using a stack.  
+Operands are single characters and operator precedence must be handled correctly.
+
+**Concepts Used:**
+- Stack
+- Operator precedence
+- Expression conversion
+- Character handling
+- Basic input/output
+
+**File:**  
+`Day33.c`
+
+---
