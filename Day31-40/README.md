@@ -64,3 +64,23 @@ Operands are single characters and operator precedence must be handled correctly
 `Day33.c`
 
 ---
+
+## ✅ Day 34
+
+### Problem: Evaluate Postfix Expression Using Stack (Linked List)
+
+**Description:**  
+Write a C program to evaluate a postfix expression using a stack implemented with a linked list.  
+Operands are pushed onto the stack. When an operator is encountered, two operands are popped, the operation is performed, and the result is pushed back onto the stack.
+
+**Concepts Used:**
+- Stack
+- Linked list
+- Dynamic memory allocation
+- Expression evaluation
+- Basic input/output
+
+**File:**  
+`Day34.c`
+
+---
