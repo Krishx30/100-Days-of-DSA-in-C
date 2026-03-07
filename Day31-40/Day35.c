@@ -15,6 +15,7 @@ void enqueue(int value)
     rear++;
     queue[rear] = value;
 }
+
 void display()
 {
     if (front == -1)
