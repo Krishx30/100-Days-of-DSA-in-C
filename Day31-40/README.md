@@ -104,3 +104,24 @@ Elements are inserted at the rear and displayed from front to rear.
 `Day35.c`
 
 ---
+
+## ✅ Day 36
+
+### Problem: Circular Queue Using Array
+
+**Description:**  
+Write a C program to implement a circular queue using an array.  
+Rear wraps around to the beginning when the end of the array is reached.  
+Elements are dequeued from the front and displayed from front to rear.
+
+**Concepts Used:**
+- Queue
+- Circular queue
+- Array
+- Front and rear pointers
+- Basic input/output
+
+**File:**  
+`Day36.c`
+
+---
