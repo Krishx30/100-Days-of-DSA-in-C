@@ -84,3 +84,23 @@ Operands are pushed onto the stack. When an operator is encountered, two operand
 `Day34.c`
 
 ---
+
+## ✅ Day 35
+
+### Problem: Queue Implementation Using Array
+
+**Description:**  
+Write a C program to implement a queue using an array.  
+Use front and rear pointers to manage insertion and traversal.  
+Elements are inserted at the rear and displayed from front to rear.
+
+**Concepts Used:**
+- Queue
+- Array
+- Front and rear pointers
+- Basic input/output
+
+**File:**  
+`Day35.c`
+
+---
