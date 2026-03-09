@@ -125,3 +125,23 @@ Elements are dequeued from the front and displayed from front to rear.
 `Day36.c`
 
 ---
+
+## ✅ Day 37
+
+### Problem: Priority Queue Using Array
+
+**Description:**  
+Write a C program to implement a Priority Queue using an array.  
+Elements with smaller values have higher priority.  
+Support insert, delete, and peek operations.
+
+**Concepts Used:**
+- Priority Queue
+- Array
+- Insertion sort logic
+- Basic input/output
+
+**File:**  
+`Day37.c`
+
+---
