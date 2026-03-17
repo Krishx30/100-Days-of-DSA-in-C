@@ -145,3 +145,62 @@ Support insert, delete, and peek operations.
 `Day37.c`
 
 ---
+
+## ✅ Day 38
+
+### Problem: Deque (Double-Ended Queue) Operations
+
+**Description:**  
+Write a C program to implement a deque using an array.  
+Support insertion and deletion from both ends, along with additional operations such as reverse, sort, clear, and size.
+
+**Concepts Used:**
+- Deque
+- Circular array
+- Front and rear pointers
+- Basic input/output
+- Sorting and reversing
+
+**File:**  
+`Day38.c`
+
+---
+
+## ✅ Day 39
+
+### Problem: Min Heap Implementation
+
+**Description:**  
+Write a C program to implement a Min Heap using an array.  
+The smallest element is always at the root.  
+Support insert, extractMin, and peek operations.
+
+**Concepts Used:**
+- Heap (Min Heap)
+- Array representation of binary tree
+- Heapify up and heapify down
+- Basic input/output
+
+**File:**  
+`Day39.c`
+
+---
+
+## ✅ Day 40
+
+### Problem: Heap Sort Using Max Heap
+
+**Description:**
+Implement Heap Sort using a max heap to sort an array in ascending order. First, build a max heap from the array, then repeatedly move the maximum element to the end and reduce the heap size.
+
+**Concepts Used:**
+
+* Heap Data Structure
+* Max Heap
+* Recursion
+* Array manipulation
+
+**File:**
+`Day40.c`
+
+---
