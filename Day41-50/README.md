@@ -98,3 +98,22 @@ Find the height (maximum depth) of a binary tree constructed from level-order tr
 `Day45.c`
 
 ---
+
+## ✅ Day 46
+
+### Problem: Level Order Traversal
+
+**Description:**
+Traverse a binary tree in level order (breadth-first traversal). Nodes are visited level by level from left to right.
+
+**Concepts Used:**
+
+* Binary Tree
+* Queue (BFS)
+* Level Order Traversal
+* Array-based Queue
+
+**File:**
+`Day46.c`
+
+---
