@@ -117,3 +117,22 @@ Traverse a binary tree in level order (breadth-first traversal). Nodes are visit
 `Day46.c`
 
 ---
+
+## ✅ Day 47
+
+### Problem: Height of Binary Tree
+
+**Description:**
+Find the height (maximum depth) of a binary tree constructed from level-order traversal where -1 represents NULL nodes.
+
+**Concepts Used:**
+
+* Binary Tree
+* Recursion
+* Tree Depth
+* Level Order Construction
+
+**File:**
+`Day47.c`
+
+---
