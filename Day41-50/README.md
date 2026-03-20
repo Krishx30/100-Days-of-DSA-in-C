@@ -136,3 +136,22 @@ Find the height (maximum depth) of a binary tree constructed from level-order tr
 `Day47.c`
 
 ---
+
+## ✅ Day 48
+
+### Problem: Count Leaf Nodes
+
+**Description:**
+Count the number of leaf nodes in a binary tree constructed from level-order traversal where -1 represents NULL nodes. A leaf node is a node with no left and right children.
+
+**Concepts Used:**
+
+* Binary Tree
+* Recursion
+* Tree Traversal
+* Level Order Construction
+
+**File:**
+`Day48.c`
+
+---
