@@ -155,3 +155,41 @@ Count the number of leaf nodes in a binary tree constructed from level-order tra
 `Day48.c`
 
 ---
+
+## ✅ Day 49
+
+### Problem: BST Insert
+
+**Description:**
+Insert elements into a Binary Search Tree (BST). Each element is placed according to BST rules where left subtree contains smaller values and right subtree contains larger values. Finally, print the inorder traversal.
+
+**Concepts Used:**
+
+* Binary Search Tree
+* Recursion
+* Tree Traversal (Inorder)
+* Dynamic Memory Allocation
+
+**File:**
+`Day49.c`
+
+---
+
+## ✅ Day 50
+
+### Problem: BST Search
+
+**Description:**
+Search for a given key in a Binary Search Tree. Traverse the tree based on BST properties and determine whether the element exists or not.
+
+**Concepts Used:**
+
+* Binary Search Tree
+* Recursion
+* Tree Traversal
+* Searching
+
+**File:**
+`Day50.c`
+
+---
