@@ -1,6 +1,6 @@
 # Day 41 – Day 50
 
-This folder contains my solutions for **Days 31 to 40** of the 100 Days of DSA challenge.
+This folder contains my solutions for **Days 41 to 50** of the 100 Days of DSA challenge.
 
 ---
 
