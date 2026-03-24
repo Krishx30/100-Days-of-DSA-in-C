@@ -22,3 +22,22 @@ Find the Lowest Common Ancestor (LCA) of two nodes in a Binary Search Tree. The 
 `Day51.c`
 
 ---
+
+## ✅ Day 52
+
+### Problem: LCA in Binary Tree
+
+**Description:**
+Find the Lowest Common Ancestor (LCA) of two nodes in a binary tree. The LCA is the lowest node that has both nodes as descendants.
+
+**Concepts Used:**
+
+* Binary Tree
+* Recursion
+* Tree Traversal
+* Divide and Conquer
+
+**File:**
+`Day52.c`
+
+---
