@@ -41,3 +41,117 @@ Find the Lowest Common Ancestor (LCA) of two nodes in a binary tree. The LCA is 
 `Day52.c`
 
 ---
+
+## ✅ Day 53
+
+### Problem: Print Binary Tree Vertical Order
+
+**Description:**
+Print the vertical order traversal of a binary tree. Nodes are grouped by their horizontal distance from the root and printed column by column from left to right.
+
+**Concepts Used:**
+
+* Binary Tree
+* Level Order Traversal (BFS)
+* Queue
+* Horizontal Distance Mapping
+
+**File:**
+`Day53.c`
+
+---
+
+## ✅ Day 54
+
+### Problem: Zigzag Traversal
+
+**Description:**
+Perform zigzag (spiral) level order traversal of a binary tree. Alternate levels are traversed left-to-right and right-to-left.
+
+**Concepts Used:**
+
+* Binary Tree
+* Level Order Traversal (BFS)
+* Queue
+* Direction Control
+
+**File:**
+`Day54.c`
+
+---
+
+## ✅ Day 55
+
+### Problem: Right View of Binary Tree
+
+**Description:**
+Print the nodes visible when the binary tree is viewed from the right side. For each level, the rightmost node is included in the output.
+
+**Concepts Used:**
+
+* Binary Tree
+* Level Order Traversal (BFS)
+* Queue
+* Tree Views
+
+**File:**
+`Day55.c`
+
+---
+
+## ✅ Day 56
+
+### Problem: Symmetric Binary Tree Check
+
+**Description:**
+Check whether a binary tree is symmetric around its center. A tree is symmetric if the left subtree is a mirror image of the right subtree.
+
+**Concepts Used:**
+
+* Binary Tree
+* Recursion
+* Tree Traversal
+* Mirror Checking
+
+**File:**
+`Day56.c`
+
+---
+
+## ✅ Day 57
+
+### Problem: Mirror a Binary Tree
+
+**Description:**
+Convert a binary tree into its mirror image by swapping left and right children at every node. Then print the inorder traversal of the mirrored tree.
+
+**Concepts Used:**
+
+* Binary Tree
+* Recursion
+* Tree Traversal (Inorder)
+* Tree Transformation
+
+**File:**
+`Day57.c`
+
+---
+
+## ✅ Day 58
+
+### Problem: Build Tree from Inorder & Preorder
+
+**Description:**
+Construct a binary tree using preorder and inorder traversal arrays. Preorder identifies the root, and inorder divides the tree into left and right subtrees. Finally, print the postorder traversal.
+
+**Concepts Used:**
+
+* Binary Tree
+* Recursion
+* Tree Construction
+* Tree Traversals
+
+**File:**
+`Day58.c`
+
+---
