@@ -155,3 +155,41 @@ Construct a binary tree using preorder and inorder traversal arrays. Preorder id
 `Day58.c`
 
 ---
+
+## ✅ Day 59
+
+### Problem: Build Tree from Inorder & Postorder
+
+**Description:**
+Construct a binary tree using inorder and postorder traversal arrays. Postorder gives the root at the end, and inorder divides the tree into left and right subtrees. Finally, print the preorder traversal.
+
+**Concepts Used:**
+
+* Binary Tree
+* Recursion
+* Tree Construction
+* Tree Traversals
+
+**File:**
+`Day59.c`
+
+---
+
+## ✅ Day 60
+
+### Problem: Validate Min-Heap
+
+**Description:**
+Check whether a binary tree satisfies the Min-Heap property. A tree is a Min-Heap if every parent node is smaller than or equal to its children.
+
+**Concepts Used:**
+
+* Heap
+* Array Representation of Tree
+* Tree Properties
+* Iteration
+
+**File:**
+`Day60.c`
+
+---
