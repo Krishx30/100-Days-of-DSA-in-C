@@ -117,3 +117,22 @@ Count the number of connected components in an undirected graph using DFS traver
 `Day76.c`
 
 ---
+
+## ✅ Day 77
+
+### Problem: Check if Graph is Connected
+
+**Description:**
+Check whether all vertices in an undirected graph are reachable from a starting vertex using DFS or BFS. If all vertices are visited, the graph is connected.
+
+**Concepts Used:**
+
+* Graph
+* DFS Traversal
+* Adjacency List
+* Connected Components
+
+**File:**
+`Day77.c`
+
+---
