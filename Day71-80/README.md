@@ -136,3 +136,60 @@ Check whether all vertices in an undirected graph are reachable from a starting 
 `Day77.c`
 
 ---
+
+## ✅ Day 78
+
+### Problem: Minimum Spanning Tree using Prim’s Algorithm
+
+**Description:**
+Compute the total weight of the Minimum Spanning Tree (MST) of a weighted undirected graph using Prim’s algorithm. The MST connects all vertices with minimum total edge weight.
+
+**Concepts Used:**
+
+* Graph
+* Greedy Algorithm
+* Prim’s Algorithm
+* Adjacency Matrix
+
+**File:**
+`Day78.c`
+
+---
+
+## ✅ Day 79
+
+### Problem: Single Source Shortest Path using Dijkstra’s Algorithm
+
+**Description:**
+Find the shortest distance from a source vertex to all other vertices in a weighted graph with non-negative edge weights using Dijkstra’s algorithm.
+
+**Concepts Used:**
+
+* Graph
+* Greedy Algorithm
+* Dijkstra’s Algorithm
+* Adjacency Matrix
+
+**File:**
+`Day79.c`
+
+---
+
+## ✅ Day 80
+
+### Problem: Floyd-Warshall Algorithm
+
+**Description:**
+Compute the shortest distances between every pair of vertices in a weighted graph using the Floyd-Warshall algorithm. The graph may contain negative weights but no negative cycles.
+
+**Concepts Used:**
+
+* Graph
+* Dynamic Programming
+* All-Pairs Shortest Path
+* Matrix Representation
+
+**File:**
+`Day80.c`
+
+---
