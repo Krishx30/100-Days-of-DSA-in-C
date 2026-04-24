@@ -41,3 +41,22 @@ Find the lower bound (first index where element is ≥ x) and upper bound (first
 `Day82.c`
 
 ---
+
+## ✅ Day 83
+
+### Problem: Implement Selection Sort
+
+**Description:**
+Sort an array of integers using Selection Sort by repeatedly finding the minimum element from the unsorted portion and placing it at the beginning.
+
+**Concepts Used:**
+
+* Arrays
+* Sorting
+* Nested Loops
+* Selection Technique
+
+**File:**
+`Day83.c`
+
+---
