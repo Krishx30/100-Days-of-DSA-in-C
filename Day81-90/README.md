@@ -60,3 +60,22 @@ Sort an array of integers using Selection Sort by repeatedly finding the minimum
 `Day83.c`
 
 ---
+
+## ✅ Day 84
+
+### Problem: Implement Insertion Sort
+
+**Description:**
+Sort an array of integers using Insertion Sort by inserting each element into its correct position in the already sorted portion of the array.
+
+**Concepts Used:**
+
+* Arrays
+* Sorting
+* Nested Loops
+* Shifting Technique
+
+**File:**
+`Day84.c`
+
+---
