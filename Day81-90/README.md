@@ -79,3 +79,22 @@ Sort an array of integers using Insertion Sort by inserting each element into it
 `Day84.c`
 
 ---
+
+## ✅ Day 85
+
+### Problem: Implement Merge Sort
+
+**Description:**
+Sort an array using Merge Sort, a divide-and-conquer algorithm that divides the array into halves, recursively sorts them, and then merges the sorted halves.
+
+**Concepts Used:**
+
+* Divide and Conquer
+* Recursion
+* Arrays
+* Merging Technique
+
+**File:**
+`Day85.c`
+
+---
