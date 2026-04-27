@@ -98,3 +98,22 @@ Sort an array using Merge Sort, a divide-and-conquer algorithm that divides the 
 `Day85.c`
 
 ---
+
+## ✅ Day 86
+
+### Problem: Square Root using Binary Search
+
+**Description:**
+Find the integer square root of a non-negative number using Binary Search. The result is the largest integer whose square is less than or equal to the given number.
+
+**Concepts Used:**
+
+* Binary Search
+* Searching
+* Mathematical Computation
+* Divide and Conquer
+
+**File:**
+`Day86.c`
+
+---
