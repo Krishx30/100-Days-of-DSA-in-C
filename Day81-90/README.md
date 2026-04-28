@@ -117,3 +117,22 @@ Find the integer square root of a non-negative number using Binary Search. The r
 `Day86.c`
 
 ---
+
+## ✅ Day 87
+
+### Problem: Implement Binary Search Iterative
+
+**Description:**
+Search for an element in a sorted array using the iterative Binary Search algorithm.
+
+**Concepts Used:**
+
+* Binary Search
+* Arrays
+* Searching
+* Divide and Conquer
+
+**File:**
+`Day87.c`
+
+---
