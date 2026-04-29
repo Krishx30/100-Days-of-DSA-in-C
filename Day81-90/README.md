@@ -136,3 +136,22 @@ Search for an element in a sorted array using the iterative Binary Search algori
 `Day87.c`
 
 ---
+
+## ✅ Day 88
+
+### Problem: Aggressive Cows Problem
+
+**Description:**
+Place k cows in n stalls such that the minimum distance between any two cows is maximized. Use binary search on the answer to efficiently find the optimal solution.
+
+**Concepts Used:**
+
+* Binary Search on Answer
+* Greedy Placement
+* Sorting
+* Arrays
+
+**File:**
+`Day88.c`
+
+---
