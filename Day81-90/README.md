@@ -155,3 +155,22 @@ Place k cows in n stalls such that the minimum distance between any two cows is 
 `Day88.c`
 
 ---
+
+## ✅ Day 89
+
+### Problem: Allocate Minimum Pages
+
+**Description:**
+Allocate books to students such that each student gets contiguous books and the maximum number of pages assigned to any student is minimized.
+
+**Concepts Used:**
+
+* Binary Search on Answer
+* Greedy Allocation
+* Arrays
+* Optimization Problem
+
+**File:**
+`Day89.c`
+
+---
