@@ -174,3 +174,22 @@ Allocate books to students such that each student gets contiguous books and the 
 `Day89.c`
 
 ---
+
+## ✅ Day 90
+
+### Problem: Painter Partition Problem
+
+**Description:**
+Divide boards among k painters such that each painter paints contiguous boards and the total time required is minimized.
+
+**Concepts Used:**
+
+* Binary Search on Answer
+* Greedy Allocation
+* Arrays
+* Optimization Problem
+
+**File:**
+`Day90.c`
+
+---
