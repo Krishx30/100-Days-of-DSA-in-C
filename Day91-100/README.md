@@ -60,3 +60,41 @@ Sort an array using Insertion Sort, a stable sorting algorithm that builds the s
 `Day93.c`
 
 ---
+
+## ✅ Day 94
+
+### Problem: Counting Sort Implementation
+
+**Description:**
+Sort an array of non-negative integers using Counting Sort by counting occurrences, computing prefix sums, and placing elements in correct positions.
+
+**Concepts Used:**
+
+* Arrays
+* Counting Technique
+* Prefix Sum
+* Stable Sorting
+
+**File:**
+`Day94.c`
+
+---
+
+## ✅ Day 95
+
+### Problem: Bucket Sort (Float Values 0–1)
+
+**Description:**
+Sort real numbers in the range [0,1) using Bucket Sort by distributing elements into buckets, sorting each bucket, and concatenating the results.
+
+**Concepts Used:**
+
+* Arrays
+* Bucket Sort
+* Insertion Sort
+* Distribution Technique
+
+**File:**
+`Day95.c`
+
+---
