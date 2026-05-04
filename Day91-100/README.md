@@ -98,3 +98,60 @@ Sort real numbers in the range [0,1) using Bucket Sort by distributing elements 
 `Day95.c`
 
 ---
+
+## ✅ Day 96
+
+### Problem: Counting Inversions in Array
+
+**Description:**
+Count the number of inversions in an array using a modified merge sort. An inversion occurs when i < j and a[i] > a[j].
+
+**Concepts Used:**
+
+* Divide and Conquer
+* Merge Sort
+* Counting Technique
+* Arrays
+
+**File:**
+`Day96.c`
+
+---
+
+## ✅ Day 97
+
+### Problem: Meeting Rooms Scheduling
+
+**Description:**
+Given meeting intervals, determine the minimum number of meeting rooms required so that no meetings overlap.
+
+**Concepts Used:**
+
+* Arrays
+* Sorting
+* Two Pointer Technique
+* Greedy Algorithm
+
+**File:**
+`Day97.c`
+
+---
+
+## ✅ Day 98
+
+### Problem: Merge Overlapping Intervals
+
+**Description:**
+Given a set of intervals, merge all overlapping intervals and print the resulting non-overlapping intervals.
+
+**Concepts Used:**
+
+* Arrays
+* Sorting
+* Greedy Algorithm
+* Interval Merging
+
+**File:**
+`Day98.c`
+
+---
