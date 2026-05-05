@@ -155,3 +155,22 @@ Given a set of intervals, merge all overlapping intervals and print the resultin
 `Day98.c`
 
 ---
+
+## ✅ Day 99
+
+### Problem: Car Fleet Calculation
+
+**Description:**
+Determine the number of car fleets that will reach a target. Cars moving at different speeds may merge into fleets if a faster car catches up with a slower one ahead.
+
+**Concepts Used:**
+
+* Arrays
+* Sorting
+* Greedy Algorithm
+* Time Calculation
+
+**File:**
+`Day99.c`
+
+---
