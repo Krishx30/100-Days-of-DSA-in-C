@@ -174,3 +174,22 @@ Determine the number of car fleets that will reach a target. Cars moving at diff
 `Day99.c`
 
 ---
+
+## ✅ Day 100
+
+### Problem: Count Inversions in Array
+
+**Description:**
+For each element in the array, count how many smaller elements appear to its right using a modified merge sort approach.
+
+**Concepts Used:**
+
+* Divide and Conquer
+* Merge Sort
+* Index Tracking
+* Counting Technique
+
+**File:**
+`Day100.c`
+
+---
